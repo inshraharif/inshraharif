@@ -20,7 +20,7 @@
 <a href="mailto:inshraharif390@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact_Me-A78BFA?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/inshrah-arif">
+<a href="https://github.com/inshraharif">
   <img src="https://img.shields.io/badge/GitHub-Follow-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
