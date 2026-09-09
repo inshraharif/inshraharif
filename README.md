@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/inshrah-arif-700328332/">
+<a href="https://www.linkedin.com/in/inshraharif-700328332/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:inshraharif390@gmail.com">
@@ -26,9 +26,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=inshrah-arif&label=Profile%20Views&color=8b5cf6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/inshrah-arif?label=Followers&style=for-the-badge&color=7c3aed"/>
-<img src="https://img.shields.io/github/stars/inshrah-arif?label=Stars&style=for-the-badge&color=a78bfa"/>
+<img src="https://komarev.com/ghpvc/?username=inshraharif&label=Profile%20Views&color=8b5cf6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/inshraharif?label=Followers&style=for-the-badge&color=7c3aed"/>
+<img src="https://img.shields.io/github/stars/inshraharif?label=Stars&style=for-the-badge&color=a78bfa"/>
 
 </div>
 
@@ -306,12 +306,12 @@ Open To:
 
 ### 🟣 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=inshrah-arif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C9C9" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=inshrah-arif&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=C9C9C9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=inshraharif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C9C9" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=inshraharif&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=C9C9C9" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inshrah-arif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9C9C9" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inshraharif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9C9C9" width="60%"/>
 
 </div>
 
@@ -325,7 +325,7 @@ Open To:
 
 ### 🟣 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=inshrah-arif&theme=discord&no-frame=true&column=4&margin-w=10&margin-h=10&title=Contributor,MultiLanguage,Stars,Followers"/>
+<img src="https://github-profile-trophy.vercel.app/?username=inshraharif&theme=discord&no-frame=true&column=4&margin-w=10&margin-h=10&title=Contributor,MultiLanguage,Stars,Followers"/>
 
 </div>
 
@@ -339,7 +339,7 @@ Open To:
 
 ### 🟣 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=inshrah-arif&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=inshraharif&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=ffffff"/>
 
 </div>
 
@@ -353,7 +353,7 @@ Open To:
 
 ### 🟣 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/inshrah-arif/inshrah-arif/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/inshraharif/inshraharif/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -371,10 +371,10 @@ Open To:
   <img src="https://img.shields.io/badge/Gmail-inshraharif390%40gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <br/>
-<a href="https://www.linkedin.com/in/inshrah-arif-700328332/">
+<a href="https://www.linkedin.com/in/inshraharif-700328332/">
   <img src="https://img.shields.io/badge/LinkedIn-Inshrah_Arif-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/inshrah-arif">
+<a href="https://github.com/inshraharif">
   <img src="https://img.shields.io/badge/GitHub-inshrah--arif-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
